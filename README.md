@@ -4,4 +4,4 @@
 
 
 # reference
-url:(https://www.youtube.com/watch?v=EwjnF7rFLns&t=183s&ab_channel=BroCode)
+url:https://www.youtube.com/watch?v=EwjnF7rFLns&t=183s&ab_channel=BroCode
